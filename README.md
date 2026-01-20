@@ -57,7 +57,8 @@ Estudante de Engenharia da Computação em busca de oportunidade de estágio ou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
