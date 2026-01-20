@@ -79,3 +79,10 @@ Estudante de Engenharia da Computação em busca de oportunidade de estágio ou 
   />
 
 </p>
+
+<div aling="center">
+
+![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) &nbsp;
+![English](https://img.shields.io/badge/-English:_Fluent-39386B?style=flat&logoColor=white) &nbsp;
+
+</div>
