@@ -3,6 +3,8 @@
 
 Estudante de Engenharia da Computação em busca de oportunidade de estágio ou primeiro emprego nas áreas de Informática, Hardware e Programação, com foco em suporte técnico, manutenção de computadores e desenvolvimento de sistemas, contribuindo para a eficiência tecnológica da empresa e para meu crescimento profissional.
 
+
+
 <p>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
 </p>
@@ -22,6 +24,8 @@ Estudante de Engenharia da Computação em busca de oportunidade de estágio ou 
             src="https://custom-icon-badges.demolab.com/github/followers/sasak1fps?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    
+    
 </p>
 
 ---
@@ -61,12 +65,15 @@ Estudante de Engenharia da Computação em busca de oportunidade de estágio ou 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
+
 <p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -82,14 +89,16 @@ Estudante de Engenharia da Computação em busca de oportunidade de estágio ou 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasak1fps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+   <img align="left" alt="Top Language" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasak1fps&theme=zenburn"/>
+
 </p>
 
-
-<p>
-    <div aling="center">
-
-![Brazilian Portuguese](https://img.shields.io/badge/-Brazilian_Portuguese:_Native-009638?style=flat&logoColor=white) &nbsp;
-![English](https://img.shields.io/badge/-English:_Fluent-39386B?style=flat&logoColor=white) &nbsp;
+<div align="center" justify="center" height="30">
+  <p align="center"><img align="left" src="https://komarev.com/ghpvc/?username=sasak1fps&style=flat-square&color=123845" />
+  </p> 
 
 </div>
-</p>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
