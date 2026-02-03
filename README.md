@@ -3,6 +3,10 @@
 
 Estudante de Engenharia da Computação em busca de oportunidade de estágio ou primeiro emprego nas áreas de Informática, Hardware e Programação, com foco em suporte técnico, manutenção de computadores e desenvolvimento de sistemas, contribuindo para a eficiência tecnológica da empresa e para meu crescimento profissional.
 
+<p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
+</p>
+
 <p align="left">
     <a href="https://github.com/sasak1fps?tab=repositories&sort=stargazers">
         <img 
